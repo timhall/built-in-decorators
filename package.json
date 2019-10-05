@@ -1,0 +1,26 @@
+{
+  "name": "@timhall/built-in-decorators",
+  "version": "0.0.0",
+  "description": "Legacy decorators for proposed built-in decorators",
+  "author": "Tim Hall <tim.hall.engr@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/timhall/built-in-decorators",
+  "main": "dist/built-in-decorators.js",
+  "scripts": {
+    "test": "jest",
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "jest": "^24.9.0",
+    "rollup": "^1.23.0",
+    "rollup-plugin-dts": "^1.1.10",
+    "rollup-plugin-filesize": "^6.2.0",
+    "rollup-plugin-typescript": "^1.0.1",
+    "tslib": "^1.10.0",
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "ts-jest": "^24.1.0"
+  }
+}
