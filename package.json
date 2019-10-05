@@ -1,5 +1,5 @@
 {
-  "name": "@timhall/built-in-decorators",
+  "name": "built-in-decorators",
   "version": "0.1.0",
   "description": "Legacy decorators for proposed built-in decorators",
   "author": "Tim Hall <tim.hall.engr@gmail.com>",
